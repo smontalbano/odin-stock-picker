@@ -1,1 +1,1 @@
-# odin-stock-picker
+Project for The Odin Project to take an array of stock prices, one per day, and choose the best day to buy and sell for max profit.
